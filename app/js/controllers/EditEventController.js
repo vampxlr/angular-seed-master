@@ -13,7 +13,7 @@ function EditEventController($scope){
     };
 
     $scope.cancelEdit = function(){
-        window.location="EventDetails.html";
+        window.location="index.html";
     };
 
 
